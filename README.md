@@ -44,8 +44,8 @@
 
 **При таких медиа запросах меняются стили:**
 
-> `@media (max-width: 1280px)`
-> `@media (max-width: 768px)`
-> `@media (max-width: 732px)`
-> `@media (max-width: 425px)`
-> `@media (max-width: 385px)`
+1. `@media (max-width: 1280px)`
+2. `@media (max-width: 768px)`
+3. `@media (max-width: 732px)`
+4. `@media (max-width: 425px)`
+5. `@media (max-width: 385px)`
